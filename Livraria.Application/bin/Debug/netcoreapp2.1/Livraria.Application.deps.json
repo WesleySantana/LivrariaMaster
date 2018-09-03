@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.1",
+    "signature": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.1": {
+      "Livraria.Application/1.0.0": {
+        "dependencies": {
+          "Livraria.Domain": "1.0.0"
+        },
+        "runtime": {
+          "Livraria.Application.dll": {}
+        }
+      },
+      "Livraria.Domain/1.0.0": {
+        "runtime": {
+          "Livraria.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Livraria.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Livraria.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

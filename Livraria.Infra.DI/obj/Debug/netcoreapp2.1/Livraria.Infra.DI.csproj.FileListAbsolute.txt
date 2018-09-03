@@ -1,0 +1,16 @@
+C:\Users\welsa\source\repos\Livraria\Livraria.Infra.DI\bin\Debug\netcoreapp2.1\Livraria.Infra.DI.deps.json
+C:\Users\welsa\source\repos\Livraria\Livraria.Infra.DI\bin\Debug\netcoreapp2.1\Livraria.Infra.DI.dll
+C:\Users\welsa\source\repos\Livraria\Livraria.Infra.DI\bin\Debug\netcoreapp2.1\Livraria.Infra.DI.pdb
+C:\Users\welsa\source\repos\Livraria\Livraria.Infra.DI\bin\Debug\netcoreapp2.1\Livraria.Application.dll
+C:\Users\welsa\source\repos\Livraria\Livraria.Infra.DI\bin\Debug\netcoreapp2.1\Livraria.Domain.dll
+C:\Users\welsa\source\repos\Livraria\Livraria.Infra.DI\bin\Debug\netcoreapp2.1\Livraria.Infra.Data.dll
+C:\Users\welsa\source\repos\Livraria\Livraria.Infra.DI\bin\Debug\netcoreapp2.1\Livraria.Application.pdb
+C:\Users\welsa\source\repos\Livraria\Livraria.Infra.DI\bin\Debug\netcoreapp2.1\Livraria.Domain.pdb
+C:\Users\welsa\source\repos\Livraria\Livraria.Infra.DI\bin\Debug\netcoreapp2.1\Livraria.Infra.Data.pdb
+C:\Users\welsa\source\repos\Livraria\Livraria.Infra.DI\obj\Debug\netcoreapp2.1\Livraria.Infra.DI.csprojAssemblyReference.cache
+C:\Users\welsa\source\repos\Livraria\Livraria.Infra.DI\obj\Debug\netcoreapp2.1\Livraria.Infra.DI.csproj.CoreCompileInputs.cache
+C:\Users\welsa\source\repos\Livraria\Livraria.Infra.DI\obj\Debug\netcoreapp2.1\Livraria.Infra.DI.AssemblyInfoInputs.cache
+C:\Users\welsa\source\repos\Livraria\Livraria.Infra.DI\obj\Debug\netcoreapp2.1\Livraria.Infra.DI.AssemblyInfo.cs
+C:\Users\welsa\source\repos\Livraria\Livraria.Infra.DI\obj\Debug\netcoreapp2.1\Livraria.Infra.DI.csproj.CopyComplete
+C:\Users\welsa\source\repos\Livraria\Livraria.Infra.DI\obj\Debug\netcoreapp2.1\Livraria.Infra.DI.dll
+C:\Users\welsa\source\repos\Livraria\Livraria.Infra.DI\obj\Debug\netcoreapp2.1\Livraria.Infra.DI.pdb

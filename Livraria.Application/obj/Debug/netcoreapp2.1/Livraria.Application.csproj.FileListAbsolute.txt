@@ -1,0 +1,12 @@
+C:\Users\welsa\source\repos\Livraria\Livraria.Application\bin\Debug\netcoreapp2.1\Livraria.Application.deps.json
+C:\Users\welsa\source\repos\Livraria\Livraria.Application\bin\Debug\netcoreapp2.1\Livraria.Application.dll
+C:\Users\welsa\source\repos\Livraria\Livraria.Application\bin\Debug\netcoreapp2.1\Livraria.Application.pdb
+C:\Users\welsa\source\repos\Livraria\Livraria.Application\bin\Debug\netcoreapp2.1\Livraria.Domain.dll
+C:\Users\welsa\source\repos\Livraria\Livraria.Application\bin\Debug\netcoreapp2.1\Livraria.Domain.pdb
+C:\Users\welsa\source\repos\Livraria\Livraria.Application\obj\Debug\netcoreapp2.1\Livraria.Application.csprojAssemblyReference.cache
+C:\Users\welsa\source\repos\Livraria\Livraria.Application\obj\Debug\netcoreapp2.1\Livraria.Application.csproj.CoreCompileInputs.cache
+C:\Users\welsa\source\repos\Livraria\Livraria.Application\obj\Debug\netcoreapp2.1\Livraria.Application.AssemblyInfoInputs.cache
+C:\Users\welsa\source\repos\Livraria\Livraria.Application\obj\Debug\netcoreapp2.1\Livraria.Application.AssemblyInfo.cs
+C:\Users\welsa\source\repos\Livraria\Livraria.Application\obj\Debug\netcoreapp2.1\Livraria.Application.csproj.CopyComplete
+C:\Users\welsa\source\repos\Livraria\Livraria.Application\obj\Debug\netcoreapp2.1\Livraria.Application.dll
+C:\Users\welsa\source\repos\Livraria\Livraria.Application\obj\Debug\netcoreapp2.1\Livraria.Application.pdb
